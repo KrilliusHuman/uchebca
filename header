@@ -1,0 +1,29 @@
+<html>
+<header>
+<nav>
+<a class="default" href=""> Main</a>
+<a class="default" href=""> Story</a>
+<a class="default" href=""> About</a>
+<a class="a1" href=""> Join</a>
+</nav>
+</header>
+<style>
+header{background:AntiqueWhite; padding:20px}
+nav .default  {
+background-color:AntiqueWhite;
+margin:0px 50px 0px 50px;
+padding:10px;
+text-decoration:none; 
+color:black;
+font-size:30px}
+nav .default:hover{background:Cornsilk;}
+.a1{border:solid 3px LightCoral;
+background-color:MistyRose ;
+margin:0px 50px 0px 50px;
+padding:10px;
+text-decoration:none; 
+color:black;
+font-size:30px}
+.a1:hover
+</style>
+</html>
