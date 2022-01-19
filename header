@@ -1,13 +1,55 @@
 <html>
+<body>
+<title>War and peace</title>
 <header>
 <nav>
-<a class="default" href=""> Main</a>
-<a class="default" href=""> Story</a>
-<a class="default" href=""> About</a>
+<a class="default" href="#main"> Main</a>
+<a class="default" href="#story"> Story</a>
+<a class="default" href="#about"> About</a>
 <a class="a1" href=""> Join</a>
 </nav>
 </header>
+<main>
+<div>
+<h2 align="center" id="main">Main</h2>
+<p align="center"><i>This site was created by people who doesn't know what they doing!</i></p>
+<p>"Well, Prince, so Genoa and Lucca are now just family estates of the Buonapartes. But I warn you, if you don't tell me that this means war, if you still try to defend the infamies and horrors perpetrated by that Antichrist- I really believe he is Antichrist- I will have nothing more to do with you and you are no longer my friend, no longer my 'faithful slave,' as you call yourself! But how do you do? I see I have frightened you- sit down and tell me all the news."
+
+It was in July, 1805, and the speaker was the well-known Anna Pavlovna Scherer, maid of honor and favorite of the Empress Marya Fedorovna. With these words she greeted Prince Vasili Kuragin, a man of high rank and importance, who was the first to arrive at her reception. Anna Pavlovna had had a cough for some days. She was, as she said, suffering from la grippe; grippe being then a new word in St. Petersburg, used only by the elite.
+
+All her invitations without exception, written in French, and delivered by a scarlet-liveried footman that morning, ran as follows:
+
+"If you have nothing better to do, Count [or Prince], and if the prospect of spending an evening with a poor invalid is not too terrible, I shall be very charmed to see you tonight between 7 and 10- Annette Scherer."
+
+"Heavens! what a virulent attack!" replied the prince, not in the least disconcerted by this reception. He had just entered, wearing an embroidered court uniform, knee breeches, and shoes, and had stars on his breast and a serene expression on his flat face. He spoke in that refined French in which our grandfathers not only spoke but thought, and with the gentle, patronizing intonation natural to a man of importance who had grown old in society and at court. He went up to Anna Pavlovna, kissed her hand, presenting to her his bald, scented, and shining head, and complacently seated himself on the sofa.
+
+"First of all, dear friend, tell me how you are. Set your friend's mind at rest," said he without altering his tone, beneath the politeness and affected sympathy of which indifference and even irony could be discerned.
+</p>
+<img src="https://s1.1zoom.ru/b5050/658/Tulips_Men_War_and_Peace_(2016)_Paul_Dano_Lily_518855_3840x2160.jpg" width=1000px>
+</div>
+<div>
+<h2 align="center" id="story">Story</h2>
+<p>Замысел эпопеи формировался задолго до начала работы над тем текстом, который известен под названием «Война и мир». В наброске предисловия к «Войне и миру» Толстой писал, что в 1856 году начал писать повесть, «герой которой должен был быть декабрист, возвращающийся с семейством в Россию. Невольно от настоящего я перешёл к 1825 году… Но и в 1825 году герой мой был уже возмужалым, семейным человеком. Чтобы понять его, мне нужно было перенестись к его молодости, и молодость его совпала с … эпохой 1812 года… Ежели причина нашего торжества была не случайна, но лежала в сущности характера русского народа и войска, то характер этот должен был выразиться ещё ярче в эпоху неудач и поражений…» Так Лев Николаевич постепенно пришёл к необходимости начать повествование с 1805 года.
+<br>Главная тема — историческая судьба русского народа в Отечественной войне 1812 года. В романе выведено более 550 персонажей, как вымышленных, так и исторических. Лучших своих героев Л. Н. Толстой изображает во всей их душевной сложности, в непрерывных поисках истины, в стремлении к самосовершенствованию. Таковы князь Андрей, граф Николай, граф Пьер, графиня Наташа и княжна Марья. Отрицательные герои лишены развития, динамики, движений души: Элен, Анатоль.
+</p>
+<p>Важнейшее значение в романе имеют философские взгляды писателя. Публицистические главы предваряют и объясняют художественное описание событий. Фатализм Толстого связан с его пониманием стихийности истории как «бессознательной, общей, роевой жизни человечества». Главная мысль романа, по словам самого Толстого, — «мысль народная». Народ, в понимании Толстого — главная движущая сила истории, носитель лучших человеческих качеств. Главные герои проходят путь к народу (Пьер на Бородинском поле; «наш барин» — называли Безухова солдаты). Идеал Толстого воплощён в образе Платона Каратаева. Идеал женский — в образе Наташи Ростовой. Кутузов и Наполеон — нравственные полюсы романа: «Нет величия там, где нет простоты, добра и правды». «Что нужно для счастья? Тихая семейная жизнь… с возможностью делать добро людям» (Л. Н. Толстой).
+К работе над повестью Л. Н. Толстой возвращался восемь раз. В начале 1861 года он читал главы из романа «Декабристы», написанные в ноябре 1860 — начале 1861 года, Тургеневу и сообщал о работе над романом Александру Герцену. Однако работа несколько раз откладывалась, пока в 1863—1869 гг. не был написан роман «Война и мир». Некоторое время роман-эпопея воспринимался Толстым как часть повествования, которое должно было закончиться возвращением Пьера и Наташи из сибирской ссылки в 1856 году (именно об этом идёт речь в 3 сохранившихся главах романа «Декабристы»). Попытки работы над этим замыслом предпринимались Толстым последний раз в конце 1870-х годов, после окончания «Анны Карениной»
+</p>
+</div>
+<div id="about" class="tolstoy">
+<img src="https://avatars.mds.yandex.net/i?id=2a00000179f80c56f348d7e356d0eb8ab490-5159711-images-thumbs&n=13&exp=1" style="float: left">
+<h1>Leo Tolstoy</h1>
+<p>Lev Nikolayevich Tolstoy 9 September [O.S. 28 August] 1828 – 20 November [O.S. 7 November] 1910), usually referred to in English as Leo Tolstoy, was a Russian writer who is regarded as one of the greatest authors of all time. He received nominations for the Nobel Prize in Literature every year from 1902 to 1906 and for the Nobel Peace Prize in 1901, 1902, and 1909. That he never won is a major controversy.
+<br>
+Born to an aristocratic Russian family in 1828, Tolstoy's notable works include the novels War and Peace (1869) and Anna Karenina (1878), often cited as pinnacles of realist fiction. He first achieved literary acclaim in his twenties with his semi-autobiographical trilogy, Childhood, Boyhood, and Youth (1852–1856), and Sevastopol Sketches (1855), based upon his experiences in the Crimean War. His fiction includes dozens of short stories and several novellas such as The Death of Ivan Ilyich (1886), Family Happiness (1859), "After the Ball" (1911) and Hadji Murad (1912). He also wrote plays and numerous philosophical essays.
+</p>
+</div>
+</body>
 <style>
+.tolstoy{padding:200px}
+div{border:solid 3px AntiqueWhite;
+text-align:center;}
+body{background:Cornsilk}
 header{background:AntiqueWhite; padding:20px}
 nav .default  {
 background-color:AntiqueWhite;
@@ -24,6 +66,7 @@ padding:10px;
 text-decoration:none; 
 color:black;
 font-size:30px}
-.a1:hover
+.a1:hover{border:solid 3px MistyRose;
+background-color:LightCoral}
+h2:hover{color:MistyRose}
 </style>
-</html>
